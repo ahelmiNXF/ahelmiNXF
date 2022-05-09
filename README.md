@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arash Helmi
+- 👋 Hi, I’m Arash Helmi.
 - 👀 I’m interested in ML for knowledge mining.
-- 🌱 I’m currently learning Microsoft Azure ML Studio
+- 🌱 I’m currently learning Microsoft Azure ML Studio.
 - 📫 You can reach me via my email arashhelmi@outlook.com 
 
 <!---
